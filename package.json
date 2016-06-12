@@ -1,0 +1,22 @@
+{
+  "name": "fis3-parser-uri",
+  "version": "1.0.0",
+  "description": "parse __uri in html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haledeng/fis3-parser-uri.git"
+  },
+  "keywords": [
+    "__uri"
+  ],
+  "author": "denghailong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haledeng/fis3-parser-uri/issues"
+  },
+  "homepage": "https://github.com/haledeng/fis3-parser-uri#readme"
+}
